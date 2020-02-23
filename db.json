@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,60 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "name": "Miles",
+      "image": "Its cool ",
+      "description": "https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg",
+      "id": 14
+    },
+    {
+      "name": "Miles",
+      "description": "Its cool ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg",
+      "id": 15
+    },
+    {
+      "name": "Miles",
+      "description": "Its cool ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg",
+      "id": 16
+    },
+    {
+      "name": "lil D",
+      "description": "happy",
+      "image": "https://a4-images.myspacecdn.com/images03/26/be3baa50339f4f27814b47fcea793c09/600x600.jpg",
+      "id": 17
+    },
+    {
+      "name": "Miles",
+      "description": "Its cool ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg",
+      "id": 18
+    },
+    {
+      "name": "Miles",
+      "description": "Its cool ",
+      "image": "https://a4-images.myspacecdn.com/images03/26/be3baa50339f4f27814b47fcea793c09/600x600.jpg",
+      "id": 19
+    },
+    {
+      "name": "danyelle",
+      "description": "saxas",
+      "image": "xaxsa",
+      "id": 20
+    },
+    {
+      "name": "dsfds",
+      "description": "dsfsdf",
+      "image": "dsfsf",
+      "id": 21
     }
   ]
 }
